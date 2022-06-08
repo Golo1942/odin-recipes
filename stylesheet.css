@@ -1,8 +1,14 @@
 h1 {
     color: red;
+    text-align: center;
 }
 
-li {
-    font: pink
-    ;
+ul, ol {
+    color: blue;
+}
+
+#picture {
+    margin: auto;
+    width: auto;
+    padding: auto;
 }
